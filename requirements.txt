@@ -1,0 +1,6 @@
+torch
+pytorch-lightning>=2.0
+scikit-learn
+matplotlib
+numpy
+pandas
